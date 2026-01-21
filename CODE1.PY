@@ -1,5 +1,5 @@
 a=3
 b=4
-c=5
+c=7
 print("sum=",a+b+c)
-#evrsion 2
+#version 3
